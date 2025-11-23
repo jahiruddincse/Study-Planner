@@ -65,6 +65,13 @@ STUDY PLANNER
 7. Exit
 _______________________________________________________________
 
+📸 8. Screenshots :
+
+<img width="1280" height="832" alt="Screenshot 2025-11-24 at 1 58 04 AM" src="https://github.com/user-attachments/assets/cc19680a-3485-465a-b2e0-5cdeb748d967" />
+
+<img width="1280" height="832" alt="Screenshot 2025-11-24 at 1 58 10 AM copy" src="https://github.com/user-attachments/assets/d2dae602-17b8-401a-b1ea-079bf2bc34be" />
+________________________________________________________________
+
 📄 7. Conclusion :
 
 The Study Planner successfully helps students:
@@ -74,3 +81,4 @@ The Study Planner successfully helps students:
 - Estimate workload
 - Track progress
 ___________________________________________________________
+
